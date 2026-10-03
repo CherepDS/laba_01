@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": "2026-10-03T15:12:19.884441",
+    "expression": "2 + 2 * 2",
+    "result": "6"
+  },
+  {
+    "timestamp": "2026-10-03T15:12:48.459176",
+    "expression": "2 + 2 * 2 + 4*(-5+10)",
+    "result": "26"
+  },
+  {
+    "timestamp": "2026-10-03T15:14:06.856668",
+    "expression": "2 + 2 * 2",
+    "result": "6"
+  },
+  {
+    "timestamp": "2026-10-03T15:15:30.617040",
+    "expression": "2+3*4",
+    "result": "14"
+  },
+  {
+    "timestamp": "2026-10-03T15:15:30.621141",
+    "expression": "10/4",
+    "result": "2.5"
+  },
+  {
+    "timestamp": "2026-10-03T15:15:30.643337",
+    "expression": "-2*-3",
+    "result": "6"
+  },
+  {
+    "timestamp": "2026-10-03T15:15:30.662804",
+    "expression": "1+-2",
+    "result": "-1"
+  },
+  {
+    "timestamp": "2026-10-03T15:15:30.793326",
+    "expression": "2+2",
+    "result": "4"
+  },
+  {
+    "timestamp": "2026-10-03T15:16:08.201157",
+    "expression": "2+3*4",
+    "result": "14"
+  },
+  {
+    "timestamp": "2026-10-03T15:16:08.207526",
+    "expression": "10/4",
+    "result": "2.5"
+  },
+  {
+    "timestamp": "2026-10-03T15:16:08.224678",
+    "expression": "-2*-3",
+    "result": "6"
+  },
+  {
+    "timestamp": "2026-10-03T15:16:08.245001",
+    "expression": "1+-2",
+    "result": "-1"
+  },
+  {
+    "timestamp": "2026-10-03T15:16:08.393904",
+    "expression": "2+2",
+    "result": "4"
+  },
+  {
+    "timestamp": "2026-10-03T15:17:25.867044",
+    "expression": "2+3*4",
+    "result": "14"
+  },
+  {
+    "timestamp": "2026-10-03T15:17:25.871097",
+    "expression": "10/4",
+    "result": "2.5"
+  },
+  {
+    "timestamp": "2026-10-03T15:17:25.893380",
+    "expression": "-2*-3",
+    "result": "6"
+  },
+  {
+    "timestamp": "2026-10-03T15:17:25.911936",
+    "expression": "1+-2",
+    "result": "-1"
+  },
+  {
+    "timestamp": "2026-10-03T15:17:25.977251",
+    "expression": "2+2",
+    "result": "4"
+  },
+  {
+    "timestamp": "2026-10-03T15:17:37.182204",
+    "expression": "2+3*4",
+    "result": "14"
+  },
+  {
+    "timestamp": "2026-10-03T15:17:37.186573",
+    "expression": "10/4",
+    "result": "2.5"
+  },
+  {
+    "timestamp": "2026-10-03T15:17:37.204470",
+    "expression": "-2*-3",
+    "result": "6"
+  },
+  {
+    "timestamp": "2026-10-03T15:17:37.222896",
+    "expression": "1+-2",
+    "result": "-1"
+  },
+  {
+    "timestamp": "2026-10-03T15:17:37.276756",
+    "expression": "2+2",
+    "result": "4"
+  },
+  {
+    "timestamp": "2026-10-03T15:30:30.882052",
+    "expression": "2+3*4",
+    "result": "14"
+  },
+  {
+    "timestamp": "2026-10-03T15:30:30.884528",
+    "expression": "10/4",
+    "result": "2.5"
+  },
+  {
+    "timestamp": "2026-10-03T15:30:30.898807",
+    "expression": "-2*-3",
+    "result": "6"
+  },
+  {
+    "timestamp": "2026-10-03T15:30:30.911565",
+    "expression": "1+-2",
+    "result": "-1"
+  },
+  {
+    "timestamp": "2026-10-03T15:30:30.937094",
+    "expression": "2+2",
+    "result": "4"
+  }
+]
