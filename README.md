@@ -8,6 +8,7 @@
 
 ## Необходимые библиотеки
 
+* ```pip install pytest```
 * ```pip install typer```
 * ```pip install tomli-w```
 
